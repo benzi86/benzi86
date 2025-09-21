@@ -4,7 +4,13 @@
 
 Estudante de tecnologia.
 
+### Contatos<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-benzi-8120422b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diegobenzi@gmail.com)
 ### Linguagens e Tecnologias
+
+
+
 
 <img 
     align="left" 
